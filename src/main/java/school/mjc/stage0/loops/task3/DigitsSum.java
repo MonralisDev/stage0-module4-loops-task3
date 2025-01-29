@@ -10,8 +10,4 @@ public class DigitsSum {
         }
         System.out.println(sum);
     }
-    public static void main(String[] args) {
-        DigitsSum digitsSum = new DigitsSum();
-        digitsSum.printDigitsSum(11111);
-    }
 }

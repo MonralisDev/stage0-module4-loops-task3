@@ -12,8 +12,4 @@ public class GreatestCommonDivisor {
         int gcd = first + second;
         System.out.println(gcd);
     }
-    public static void main(String[] args) {
-        GreatestCommonDivisor gcd = new GreatestCommonDivisor();
-        gcd.printGCD(462, 1071);
-    }
 }
